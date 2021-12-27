@@ -1,1 +1,1 @@
-# Implied-Volatility-Based-on-VIX
+# Fully Vectorized Implied Volatility Model Based on VIX Methodology
